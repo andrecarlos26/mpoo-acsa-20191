@@ -19,6 +19,6 @@ public class HelloWorld {
         DateFormat data = new SimpleDateFormat("HH:mm:ss");
         Date data1 = new Date();
 
-        System.out.println(data.format(data1) + " - OlÃ¡ " + this.getNome() + ". VocÃª acabou de fazer seu primeiro Hello Word em Java. ParabÃ©ns.");
+        System.out.println(data.format(data1) + " - Olá " + this.getNome() + ". Você acabou de fazer seu primeiro Hello Word em Java. Parabéns.");
     }
 }

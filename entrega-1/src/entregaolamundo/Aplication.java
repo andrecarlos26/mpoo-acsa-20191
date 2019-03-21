@@ -3,7 +3,7 @@ package entregaolamundo;
 public class Aplication {
     public static void main(String[] args) {
         HelloWorld helloWorld = new HelloWorld();
-        helloWorld.setNome("AndrÃ©");
+        helloWorld.setNome("André");
         helloWorld.imprimir();
 
 
@@ -17,6 +17,8 @@ public class Aplication {
 
         HelloWorld helloWorld4 = new HelloWorld();
         helloWorld4.imprimir();
+        
+        System.out.println("OOOOOOOOOIIIIII");
 
     }
 }
