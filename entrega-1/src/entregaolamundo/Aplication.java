@@ -18,7 +18,8 @@ public class Aplication {
         HelloWorld helloWorld4 = new HelloWorld();
         helloWorld4.imprimir();
         
-        System.out.println("OOOOOOOOOIIIIII");
-
+        Teste mensagem = new Teste();
+        mensagem.setMensagem("Busquem conhecimento");
+        mensagem.exibirMensagem();
     }
 }
